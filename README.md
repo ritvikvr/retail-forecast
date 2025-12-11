@@ -143,7 +143,7 @@ If your CSV uses different Portuguese column names:
 
 ## Author
 
-Ritvik Verma (@ritvikvr)
+Ritvik(@ritvikvr)
 
 ## License
 
